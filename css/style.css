@@ -12,14 +12,14 @@ src: url('../fonts/HelveticaNeueLTStd-UltLt.otf');
 
 html, body{
 	 background:  #141718; 
-	
+	min-width: 1110px;
 	font-family: 'HelveticaUL' !important;
 	font-weight: 300 !important;
 }
 
 
 nav{
-	background: rgba(20,23,24,0.9) !important;
+	background: rgba(20,23,24,0.7) !important;
 	border: none !important;
 	height: 105px !important;
 	display: none;
@@ -55,25 +55,67 @@ body{
 
 }
 
+.item img{
+	width: 100%;
+	opacity: 0.5;
+}
+
 .jumbotron{
 	display: none;
 	position: relative !important;
 	width: 100%;
 	min-height: 500px;
-	background: url('../img/merc.jpg');
+	
 	background-position: center;
+	background-repeat: no-repeat;
 	background-size: 100%;
 	text-align: center;
 	overflow: hidden;
 	border-bottom: 2px solid #359dd6 !important;
 }
 
-.jumbotron .heading{
+.merc{
+	
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/merc.jpg');
+}
+
+.phantom{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/phantom.jpg');
+
+}
+
+.merce{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/merce.jpg');
+
+}
+
+.heading{
 
 	position: absolute !important;
-	bottom: 20px;
+	bottom: 120px;
 	width: 100%;
 	text-align: center;
+}
+
+.carousel{
+	
+	height: 100%;
+	overflow: hidden;
+	border-bottom: 2px solid #359dd6 !important;
+}
+
+.item{
+	position: relative !important;
+	width: 100%;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	background-size: 100% !important;
+}
+
+.carousel-caption{
+	position: absolute !important;
+	bottom: 20px;
+
 }
 
 h1{
@@ -87,18 +129,18 @@ h1{
 .nav li a{
 	padding: 0px !important;
 }
-.jumbotron .heading h1{
+.carousel-caption h1{
 	font-family: 'HelveticaUL' !important;
 	color: #fff;
 	font-size: 120px;
+
 }
 
 .testimonial{
 	color: #fff !important;
 	font-size: 20px;
 	font-family: 'HelveticaNeue' !important;
-	
-
+	margin-top: 20px;
 }
 
 
@@ -121,8 +163,8 @@ h1{
 	color: #fff !important;
 }
 
-.footer div a:after{
-	content: '•';
+.bullet:before{
+	content: ' \02022 ';
 }
 
 hr
