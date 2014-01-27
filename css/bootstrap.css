@@ -4189,7 +4189,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   left: auto;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 0px) {
   .nav-tabs.nav-justified > li {
     display: table-cell;
     width: 1%;
