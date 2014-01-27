@@ -11,17 +11,44 @@ src: url('../fonts/HelveticaNeueLTStd-UltLt.otf');
 }
 
 html, body{
-	background: #141718;
+	 background:  #141718; 
+	
 	font-family: 'HelveticaUL' !important;
 	font-weight: 300 !important;
 }
 
+
 nav{
 	background: rgba(20,23,24,0.9) !important;
-	border-color: #359dd6 !important;
-	border-bottom-width: 2px !important;
-	height: 83px !important;
-	
+	border: none !important;
+	height: 105px !important;
+	display: none;
+}
+
+hr{
+	padding: 0;
+	margin: 0;
+}
+
+.menu{
+	width: 100%;
+	height: 22px;
+	font-size: 18px;
+	text-align: center;
+	color: #fff;
+	padding-top: 3px;
+	font-family: 'HelveticaNeue' !important;
+	margin-left: 10px;
+}
+
+.menu a{
+	padding-right: 22px;
+}
+
+.shadow {
+   -moz-box-shadow:    inset 0 0 20px #000000;
+   -webkit-box-shadow: inset 0 0 20px #000000;
+   box-shadow:         inset 0 0 20px #000000;
 }
 
 body{
@@ -29,9 +56,10 @@ body{
 }
 
 .jumbotron{
+	display: none;
 	position: relative !important;
 	width: 100%;
-	min-height: 730px;
+	min-height: 500px;
 	background: url('../img/merc.jpg');
 	background-position: center;
 	background-size: 100%;
@@ -52,7 +80,7 @@ h1{
 	font-family: 'HelveticaNeue' !important;
 	color: #1abc9c;
 	margin: 0px;
-
+	font-size: 30px;
 	padding-right: 30px;
 }
 
@@ -67,10 +95,34 @@ h1{
 
 .testimonial{
 	color: #fff !important;
-	font-size: 28px;
+	font-size: 20px;
 	font-family: 'HelveticaNeue' !important;
 	
 
+}
+
+
+.footer{
+	 background:  #8E8E93 !important;
+	 height: 100px;
+	 border-top:  3px solid #359dd6 !important;
+	 text-align: center;
+	 font-size: 25px;
+	 
+}
+
+.footer div{
+	margin-top: 35px;
+}
+
+.footer div a{
+	
+	font-family: 'HelveticaNeue' !important;
+	color: #fff !important;
+}
+
+.footer div a:after{
+	content: '•';
 }
 
 hr
@@ -89,6 +141,7 @@ hr
 	font-family: 'HelveticaNeue';
 }
 
+
 .logo{
 	color: #1abc9c;
 	font-size: 30px;
@@ -97,4 +150,5 @@ hr
 	width: 136px;
 	margin-left: -68px;
 	font-family: 'HelveticaNeue';
+	margin-top: -5px;
 }
