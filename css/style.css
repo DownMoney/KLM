@@ -92,6 +92,48 @@ body{
 
 }
 
+.heathrow{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/heathrow.jpg');
+
+}
+
+.luton{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/luton.jpg');
+}
+
+.stansted{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/stansted.jpg');
+}
+
+.wedding{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/wedding.jpg');
+}
+
+.party{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/party.jpeg');
+
+}
+
+.opera{
+			background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/opera.jpg');
+
+}
+
+.meeting{
+				background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/meeting.jpg');
+
+}
+
+.relax{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/relax.jpg');
+}
+
+.style{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/style.jpg');
+}
+
+
+
 .heading{
 
 	position: absolute !important;
@@ -136,7 +178,7 @@ h1{
 	font-family: 'HelveticaUL' !important;
 	color: #fff;
 	font-size: 120px;
-
+	text-shadow: 2px 2px #000;
 }
 
 .testimonial{
