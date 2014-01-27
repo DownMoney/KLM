@@ -12,7 +12,7 @@ src: url('../fonts/HelveticaNeueLTStd-UltLt.otf');
 
 html, body{
 	 background:  #141718; 
-	min-width: 1110px;
+	min-width: 1110px !important;
 	font-family: 'HelveticaUL' !important;
 	font-weight: 300 !important;
 }
