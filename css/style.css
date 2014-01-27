@@ -99,7 +99,7 @@ body{
 }
 
 .carousel{
-	
+	display: none;
 	height: 100%;
 	overflow: hidden;
 	border-bottom: 2px solid #359dd6 !important;
