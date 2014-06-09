@@ -21,10 +21,11 @@ html, body{
 nav{
 	background: rgba(20,23,24,0.7) !important;
 	border: none !important;
-	height: 105px !important;
+	height: 85px ;
 	display: none;
 	min-width: 1100px !important;
 	overflow: hidden;
+
 }
 
 hr{
@@ -39,9 +40,11 @@ hr{
 	text-align: center;
 	color: #fff;
 	padding-top: 3px;
-	font-family: 'HelveticaNeue' !important;
+	font-family: 'HelveticaNeue';
 	margin-left: 10px;
 }
+
+
 
 .menu a{
 	padding-right: 22px;
@@ -92,6 +95,11 @@ body{
 
 }
 
+.viano{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/viano.jpg');
+
+}
+
 .heathrow{
 	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/heathrow.jpg');
 
@@ -131,6 +139,7 @@ body{
 .style{
 	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/style.jpg');
 }
+
 
 
 
@@ -224,18 +233,21 @@ hr
 	font-size: 40px;
 	padding: 0px;
 	margin: 0px;
-	height: 42px;
+	height: 20px;
 	font-family: 'HelveticaNeue';
 }
 
 
 .logo{
-	color: #1abc9c;
-	font-size: 30px;
+	color: #fff;
+	font-size: 40px;
 	position: absolute;
 	left: 50%;
-	width: 136px;
-	margin-left: -68px;
-	font-family: 'HelveticaNeue';
-	margin-top: -5px;
+	width: 350px;
+	text-align: center;
+	margin-left: -175px;
+	font-family: 'Helvetica';
+	margin-top: -20px;
+	text-shadow: 2px 2px #000;
 }
+
