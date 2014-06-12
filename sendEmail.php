@@ -171,6 +171,11 @@ color: #fff !important;
     <p>Hi Lukasz,</p>
     <p>You have a new booking from: '.$_POST['name'].' ('.$_POST['email'].'), below is their message</p>
     <p>'.$_POST['message'].'</p>
+    <p>Pickup: '.$_POST['from'].'</p>
+    <p>Dropoff: '.$_POST['to'].'</p>
+    <p>Baggage: '.$_POST['baggage'].'</p>
+    <p>Multiple Dropoff: '.$_POST['multi'].'</p>
+    <p>People: '.$_POST['people'].'</p>
     <p>Kind regards,</p>
     <p style="margin:0px; padding:0px;">Your website :)</p>
    
