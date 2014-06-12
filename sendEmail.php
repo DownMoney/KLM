@@ -176,6 +176,8 @@ color: #fff !important;
     <p>Baggage: '.$_POST['baggage'].'</p>
     <p>Multiple Dropoff: '.$_POST['multi'].'</p>
     <p>People: '.$_POST['people'].'</p>
+    <p>Pickup date: '.$_POST['pickup'].'</p>
+    <p>Return date (optional): '.$_POST['return'].'</p>
     <p>Kind regards,</p>
     <p style="margin:0px; padding:0px;">Your website :)</p>
    
