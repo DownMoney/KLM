@@ -1,0 +1,20 @@
+/*
+	Coin Slider jQuery plugin CSS styles
+	http://workshop.rs/projects/coin-slider
+*/
+.sliderShadow {background: url(../media/images/shadow.png) bottom center no-repeat; padding: 0 0 17px 0;}
+.sliderbg { background: #fff; -moz-box-shadow: 0 0 2px #5f5e5e; -webkit-box-shadow: 0 0 2px #5f5e5e; box-shadow: 0 0 2px #5f5e5e; -webkit-border-radius: 8px; -moz-border-radius:8px; border-radius: 8px; padding:8px; margin: 30px 0 0 0; position: relative; height: 412px;}
+.coin-slider { overflow: hidden; zoom: 1; position: relative; height: 462px;}
+.coin-slider a { text-decoration: none; outline: none; border: none; }
+.cs-buttons { font-size: 0px; padding: 10px; float: left; margin-top: 17px;}
+.cs-buttons a { margin-left: 5px; height: 10px; width: 10px; float: left; border: 1px solid #fff; color: #B8C4CF; text-indent: -1000px; -webkit-border-radius: 8px; -moz-border-radius:8px; border-radius: 8px; background-color: #fff;}
+.cs-active { background-color: #f6f600!important; color: #FFFFFF; }
+.srimg {width: 16px; height: 16px; position: absolute; }
+.srt { top:6px; right:5px; z-index: 500;}
+.srb {top:408px; right:5px; z-index: 501;}
+.slt {width: 11px; height: 11px; top:6px; left:6px; z-index: 503;}
+.slb {top:406px; left:4px; z-index: 504;}
+.cs-title { width: 545px; padding: 15px; background-color: #000000; color: #FFFFFF; margin: 0 0 20px 20px;}
+.cs-title H1 {font-size: 16px; margin-bottom: 8px;}
+.cs-prev,
+.cs-next { background-color: #000000; color: #FFFFFF; padding: 0px 10px; }

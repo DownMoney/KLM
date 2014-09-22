@@ -1,0 +1,1 @@
+<iframe src="{wt_href_tpl_link mod_key="mod_structure_manager" parameters="m=items&t=googleMapFormMap"}" height="465" width="610" frameborder="0" scrolling="no" style="border:0;"></iframe>

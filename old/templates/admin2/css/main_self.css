@@ -1,0 +1,35 @@
+BODY { margin: 0; padding: 10px; font-size: 11px; font-family: verdana, arial, helvetica, serif, sans-serif; background: #FFF; }
+H1 { font-size: 18px; font-weight: bold; }
+IMG { border: 0px; }
+TABLE, TD { font-size: 11px; font-family: verdana, arial, helvetica, serif, sans-serif; }
+FORM { margin: 0; padding: 0; }
+.text_area2 { border: 1px solid #000; color: #333; background: #FFF; font-size: 11px; width: 180px; padding: 2px; }
+.text_area3 { border: 1px solid #000; color: #333; background: #FFF; font-size: 11px; padding: 2px; }
+.text_area4, .t4 { border: 1px solid #000; color: #333; background: #FFF; font-size: 11px; padding: 2px; width: 400px; }
+.text_area5 { border: 1px solid #000; color: #333; background: #FFF; font-size: 11px; padding: 2px; width: 200px; }
+TABLE.EditTable { width: 100%; margin: 0; padding: 0; float: left; clear: both; empty-cells: show; }
+.EditTable-l { width: 150px; background: #FFF; font-weight: bold; text-align: right; vertical-align: top; padding-right: 5px; }
+.EditTable-s { height: 5px; background: #e2e2e2; }
+.EditTable-buttons { background: #e2e2e2; text-align: center; padding: 2px 0; }
+.EditTable-buttons INPUT, .ETB { border: 1px solid #999; background: #FFF; font-weight: bold; font-size: 11px; color: #C01F01; cursor: pointer; }
+.EditTable-buttons INPUT:hover, .ETB:hover { background: #EFEFEF; }
+.button_call { border: 1px solid #999; background: #FFF; font-weight: bold; font-size: 20px; color: #C01F01; cursor: pointer; padding: 0; width: 30px; }
+A.ontab { display: block; float: left; clear: none; font-size: 12px; background-color: #F0F1F1; border-left: solid 1px #888; border-right: solid 1px #888; border-top: solid 3px #FF9900; border-bottom: 0; text-align: center; font-weight: bold; color: #000; text-decoration: none; padding: 2px 5px; margin-right: 3px; }
+A.offtab { display: block; float: left; clear: none; background-color: #F0F1F1; border-left: solid 1px #C0BCC0; border-right: solid 1px #C0BCC0; border-top: solid 3px #C0BCC0; border-bottom: solid 1px #888; color: #C0BCC0; text-align: center; text-decoration: none; padding: 2px 9px; margin-right: 3px; }
+.hide { display: none; float: left; clear: both; }
+#loader { width: 320px; margin-left: auto; margin-right: auto; border: 3px solid #6E89DD; margin-top: 200px; padding: 5px; background: #E6EBF9; font-weight: bold; clear: none; }
+TABLE.dT { width: 100%; border-collapse: separate; border-spacing: 0; }
+.dT TD { padding: 2px; border-spacing: 0; }
+.dTH { background: #30559C; color: #fff; font-weight: bold; }
+.dTH TD { border-bottom: 2px #80B5D7 solid; }
+.dTR { color: #000; background: #F0F1F1; }
+.dTR TD { border-top: 1px solid #FFF; }
+.dTRO { background: #FFF; cursor: pointer; }
+.dTRO TD { background: #FFF; border-top: 1px solid #FFF; }
+.dTRS TD { font-weight: bold; }
+.dTFR { background: #30559C; color: #fff; font-weight: bold; }
+.dTFR TD { border-top: 2px #80B5D7 solid; }
+.dTFRC TD { color: #fff; padding: 3px; border: 0; }
+
+.infoTableParent STRONG { font-size: 16px; color: #4F4F4F; font-size: 15px; font-family: trebuchet MS; }
+.infoTableParent TD { padding: 3px; vertical-align:top; }

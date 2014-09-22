@@ -1,0 +1,50 @@
+body { height: 100%; background: #445893; color: #fff; font-size: 12px; font-family: arial, Helvetica, sans-serif; line-height: 145%; }
+small {font-size: 11px; line-height: 120%; font-weight: normal;}
+IMG {border:0;}
+a {color: #e1e3e2; text-decoration: none;}
+a:hover {color: #fff; text-decoration: none;}
+P {margin: 0 0 10px 0; padding: 0; text-indent: 20px;}
+H1, H2, H3, H4, H5, H6 {margin:0; padding:0; font-weight:normal; line-height: 120%; }
+UL, OL {margin: 0 0 10px 18px; padding: 0;}
+UL {list-style-type: square;}
+a.back {display: block;}
+a.more, a.back {font-weight: bold;}
+a.back:hover, a.more:hover {}
+.frame {padding: 0 0 20px 0; }
+.page {width: 1010px; background: url(../media/images/bg.jpg) repeat-y; position: relative; padding-bottom: 22px;}
+.mpbg {width: 984px; padding: 0 26px 0 0; min-height:689px; background: url(../media/images/mpbg3.jpg) top left no-repeat;}
+a.logo {float: left; width: 310px; height: 92px; margin: 45px 0 0 30px;}
+.menu {float:right; background: url(../media/images/menubg.png) repeat; }
+.menu UL {float: left; margin: 0; padding: 5px 10px; list-style-type: none; }
+.menu LI {margin: 0 0 0 10px; padding: 0 0 0 10px; display: inline; border-left:#445893 1px solid; line-height: 100%; }
+LI.menuFirst {margin-left: 0; padding-left: 0; border-left:0;}
+.menu LI a {color: #afd8f6;}
+.menu LI a:hover {color: #fff;}
+a#active {color: #fff;}
+.lang {float:right; margin: 10px 10px 0 0;}
+.lang a {float: left; width: 20px; height:10px; margin: 0 0 0 4px; background: url(../media/images/lang.png)  no-repeat;}
+a.fl_pl:hover, a#lpl_active {background-position: 0 0;}
+a.fl_pl {background-position: 0 -12px;}
+a.fl_en:hover, a#len_active {background-position: -66px 0;}
+a.fl_en {background-position: -66px -12px;}
+a.fl_de:hover, a#lde_active {background-position: -44px 0;}
+a.fl_de {background-position: -44px -12px;}
+a.fl_ru:hover, a#lru_active {background-position: -22px 0;}
+a.fl_ru {background-position: -22px -12px;}
+.mDesc { width: 307px; padding: 152px 0 0 0; margin: 0 0 0 32px; }
+.mDesc H1 {font-size: 28px; margin-bottom: 11px;}
+.mDesc H3 {font-size: 16px; margin-bottom: 2px; font-weight: bold;}
+.mDesc_div {margin: 0 5px;}
+.mDesc P {margin: 0 0 3px 0; padding: 0;}
+.phone { font-size: 26px; text-align: center; margin: 8px 0 10px 0; float: left; width: 100%; border-bottom:#949494 1px solid; padding-bottom: 12px;}
+.phone span {float: left; width: 100%; margin: 11px 0 0 0; font-size: 17px; /*font-weight: bold;*/}
+.list {border-bottom:#949494 1px solid; margin-bottom: 10px; padding-bottom: 9px;}
+.list H2 {font-size: 20px; margin-bottom: 3px; }
+.listLast {margin-bottom: 0; padding-bottom: 0; border-bottom: 0;}
+.bl_offer {float: left; width: 965px; border-top: #445893 12px solid; /* border-bottom: #445893 1px solid;*/ margin: 10px 30px 4px 15px; padding: 10px 0 0 0;}
+.bl_offer_div {width: 316px; float: left; margin: 0 0 0 8px; }
+.offFirst {margin-left: 0;}
+.bl_offer H3 {background: #ccc; font-size: 22px; color:#000; padding: 5px 10px 2px 10px; margin-bottom: 2px;}
+.bl_offer H3 a {color: #000;}
+.bl_offer H3 a:hover {color: #445893;}
+.footbg {position: absolute; bottom:0; left:-7px;}

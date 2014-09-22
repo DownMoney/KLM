@@ -1,0 +1,4 @@
+UL.structureEdit { list-style-type: none; margin: 0; padding: 0; clear: both; padding: 10px 0; }
+UL.structureEditHover { background: #F00; padding: 20px 0; }
+LI.structureEdit { }
+DIV.structureEdit { float: left; clear: both; width: 100%; background: #EFEFEF; height: 16px; text-align: right; }

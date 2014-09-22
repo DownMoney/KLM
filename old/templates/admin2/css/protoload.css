@@ -1,0 +1,4 @@
+.waiting { background: #FFF url('../media/protoload/waiting.gif') center center no-repeat; }
+.bigWaiting { background: #FFF url('../media/protoload/bigWaiting.gif') center center no-repeat; }
+.blackWaiting { background: #000 url('../media/protoload/blackWaiting.gif') center center no-repeat; }
+.bigBlackWaiting { background: #000 url('../media/protoload/bigBlackWaiting.gif') center center no-repeat; }

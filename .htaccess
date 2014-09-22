@@ -1,0 +1,10 @@
+php_value memory_limit 50M
+php_flag session.use_trans_sid Off
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !\.(css|jpg|gif|png|jpeg|js|xml|txt|swf|ico|pdf|flv|bmp|exe|zip|rar)$
+RewriteRule ^(.*) index.php
+#RewriteRule ^(.*) przerwa.html

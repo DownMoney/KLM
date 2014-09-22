@@ -1,0 +1,290 @@
+@font-face
+{
+font-family: 'HelveticaUL';
+src: url('../fonts/HelveticaNeueLTStd-UltLt.otf');
+}
+
+@font-face
+{
+	font-family: 'HelveticaNeue';
+	src: url('../fonts/HelveticaNeueLTPro-Th.otf');
+}
+
+html, body{
+	 background:  #141718; 
+	min-width: 1110px !important;
+	font-family: 'HelveticaUL' !important;
+	font-weight: 300 !important;
+}
+
+
+nav{
+	background: rgba(20,23,24,0.7) !important;
+	border: none !important;
+	height: 100px ;
+	display: none;
+	min-width: 1100px !important;
+	overflow: hidden;
+
+}
+
+hr{
+	padding: 0;
+	margin: 0;
+}
+
+p i small{
+	color: #fff;
+	text-align: center;
+}
+
+.menu{
+	width: 100%;
+	height: 22px;
+	font-size: 25px;
+	text-align: center;
+	color: #fff;
+	padding-top: 3px;
+	font-family: 'HelveticaNeue';
+	margin-left: 10px;
+}
+
+
+
+.menu a{
+	padding-right: 22px;
+	color: #fff;
+}
+
+.shadow {
+   -moz-box-shadow:    inset 0 0 20px #000000;
+   -webkit-box-shadow: inset 0 0 20px #000000;
+   box-shadow:         inset 0 0 20px #000000;
+}
+
+body{
+
+}
+
+.item img{
+	width: 100%;
+	opacity: 0.5;
+}
+
+.jumbotron{
+	display: none;
+	position: relative !important;
+	width: 100%;
+	min-height: 500px;
+	
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	text-align: center;
+	overflow: hidden;
+	border-bottom: 2px solid #359dd6 !important;
+}
+
+.merc{
+	
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/merc.jpg');
+}
+
+.phantom{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/phantom.jpg');
+
+}
+
+.merce{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/merce.jpg');
+
+}
+
+.viano{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/viano.jpg');
+
+}
+
+.heathrow{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/heathrow.jpg');
+
+}
+
+.luton{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/luton.jpg');
+}
+
+.stansted{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/stansted.jpg');
+}
+
+.oxford{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/oxford.jpg');
+}
+
+.gatwick{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/gatwick.jpg');
+}
+
+.city{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/city.jpg');
+}
+
+.southend{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/southend.jpg');
+}
+
+.biggin{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/biggin.jpg');
+}
+
+.farnborough{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/farnborough.jpg');
+}
+
+.battersea{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/battersea.jpg');
+}
+
+.docklands{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/docklands.jpg');
+}
+
+.wedding{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/wedding.jpg');
+}
+
+.party{
+		background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/party.jpeg');
+
+}
+
+.opera{
+			background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/opera.jpg');
+
+}
+
+.meeting{
+				background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/meeting.jpg');
+
+}
+
+.relax{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/relax.jpg');
+}
+
+.style{
+	background: linear-gradient( rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('../img/style.jpg');
+}
+
+
+
+
+.heading{
+
+	position: absolute !important;
+	bottom: 120px;
+	width: 100%;
+	text-align: center;
+}
+
+.carousel{
+	display: none;
+	height: 100%;
+	overflow: hidden;
+	border-bottom: 2px solid #359dd6 !important;
+}
+
+.item{
+	position: relative !important;
+	width: 100%;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	background-size: 100% !important;
+}
+
+.carousel-caption{
+	position: absolute !important;
+	bottom: 20px;
+
+}
+
+h1{
+	font-family: 'HelveticaNeue' !important;
+	color: #1abc9c;
+	margin: 0px;
+	font-size: 30px;
+	padding-right: 30px;
+}
+
+.nav li a{
+	padding: 0px !important;
+}
+.carousel-caption h1{
+	font-family: 'HelveticaUL' !important;
+	color: #fff;
+	font-size: 120px;
+	text-shadow: 2px 2px #000;
+}
+
+.testimonial{
+	color: #fff !important;
+	font-size: 20px;
+	font-family: 'HelveticaNeue' !important;
+	margin-top: 20px;
+}
+
+
+.footer{
+	 background:  #8E8E93 !important;
+	 height: 100px;
+	 border-top:  3px solid #359dd6 !important;
+	 text-align: center;
+	 font-size: 25px;
+	 
+}
+
+.footer div{
+	margin-top: 35px;
+}
+
+.footer div a{
+	
+	font-family: 'HelveticaNeue' !important;
+	color: #fff !important;
+}
+
+.bullet:before{
+	content: ' \02022 ';
+}
+
+hr
+{
+	border: 1px solid #359dd6 !important;
+}
+
+.klm{
+	color: #359dd6;
+	width: 100%;
+	text-align: center;
+	font-size: 40px;
+	padding: 0px;
+	margin: 0px;
+	height: 20px;
+	font-family: 'HelveticaNeue';
+}
+
+
+.logo{
+	color: #fff;
+	font-size: 40px;
+	position: absolute;
+	left: 50%;
+	width: 350px;
+	text-align: center;
+	margin-left: -175px;
+	font-family: 'Helvetica';
+	margin-top: -20px;
+	text-shadow: 2px 2px #000;
+}
+
