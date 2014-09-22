@@ -81,7 +81,7 @@ color: #fff !important;
         <span class="bullet"></span>
         <a href="http://klmchauffeurs.com/corporate.html">Corporate</a>
         <span class="bullet"></span>
-        <a href="http://klmchauffeurs.com/booknow.html">Book Now</a>
+        <a href="http://klmchauffeurs.com/booknow.html">Booking &amp; Payment</a>
       </div>
     </div>
   </div>
