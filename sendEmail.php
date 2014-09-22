@@ -17,7 +17,7 @@ $mail->isHTML(true);
 $mail->SMTPDebug = 2;
 $mail->Debugoutput = 'html';
 
-$mail->Subject = "K&middot;L&middot;M Chauffeurs";
+$mail->Subject = "KLM Chauffeurs";
 $mail->Body = '<html>
 <head>
 <style>
