@@ -5,7 +5,7 @@
 
  $from = "Lukasz Kolomanski <enquiries@klmchauffeurs.com>";
  $to = $_POST['email'];
- $subject = "KLM Chauffeurs";
+ $subject = "K&middot;L&middot;M Chauffeurs";
 $crlf = "\n";
  $mime = new Mail_mime(array('eol' => $crlf));
  $html = '<html>

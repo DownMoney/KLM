@@ -17,7 +17,7 @@ $mail->isHTML(true);
 $mail->SMTPDebug = 2;
 $mail->Debugoutput = 'html';
 
-$mail->Subject = "KLM Chauffeurs";
+$mail->Subject = "K&middot;L&middot;M Chauffeurs";
 $mail->Body = '<html>
 <head>
 <style>
@@ -172,6 +172,7 @@ color: #fff !important;
     <p>You have a new booking from: '.$_POST['name'].' ('.$_POST['email'].'), below is their message</p>
     <p>'.$_POST['message'].'</p>
     <p>Pickup: '.$_POST['from'].'</p>
+    <p>Phone: '.$_POST['phone'].'</p>
     <p>Dropoff: '.$_POST['to'].'</p>
     <p>Baggage: '.$_POST['baggage'].'</p>
     <p>Multiple Dropoff: '.$_POST['multi'].'</p>

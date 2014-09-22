@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>KLM Chauffeurs Oxford &bull; Book Now</title>
+  <title>K&middot;L&middot;M Chauffeurs Oxford &bull; Book Now</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="keywords" content="oxford chauffeurs,chauffeur oxford,oxford chauffeur,private car hire oxford,chauffeur hire oxford,airport transfers oxford,chauffeur hire, chauffeur,chauffeurs oxford,chauffeurs of oxford,oxfordshire chauffeurs,chauffeurs,wedding car hire oxford,oxford">
   <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
-    <meta name="description" content="KLM Chauffeurs is a privately owned chauffeur services based in Oxford. We are a luxury chauffeur driven fleet that delivers reliability, punctuality and prestige wherever your destination is. Our luxurious vehicles are driven by smartly-presented and professional drivers, who will guarantee you a safe and comfortable journey in style. They are all highly skilled drivers, trained to the ultimate level of customer service, with a thorough knowledge of Oxford, as well as London. We are customer's needs focused firm with strong motivation to deliver the best chauffeur services possible. We pride ourselves on offering an excellent chauffeur service at affordable cost. Whether you need an efficient airport transport or be driven to a business meeting, we are ready 24 hours a day to take you where you need go. Our promise is nothing but your complete satisfaction in every aspect of your interaction with us. So please do not hesitate to contact us and we will make sure your experience with us will be extraordinary.">
+    <meta name="description" content="K&middot;L&middot;M Chauffeurs is a privately owned chauffeur services based in Oxford. We are a luxury chauffeur driven fleet that delivers reliability, punctuality and prestige wherever your destination is. Our luxurious vehicles are driven by smartly-presented and professional drivers, who will guarantee you a safe and comfortable journey in style. They are all highly skilled drivers, trained to the ultimate level of customer service, with a thorough knowledge of Oxford, as well as London. We are customer's needs focused firm with strong motivation to deliver the best chauffeur services possible. We pride ourselves on offering an excellent chauffeur service at affordable cost. Whether you need an efficient airport transport or be driven to a business meeting, we are ready 24 hours a day to take you where you need go. Our promise is nothing but your complete satisfaction in every aspect of your interaction with us. So please do not hesitate to contact us and we will make sure your experience with us will be extraordinary.">
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -58,7 +58,7 @@
           <div style="height: 35px;">
 
             <div class="logo">
-              <b>KLM</b> Chauffeurs
+              <b>K&middot;L&middot;M</b> Chauffeurs
             </div>
 
 
@@ -81,58 +81,64 @@
 
 
        
-    <div class="container" style="margin-top:120px;width:500px; ">
+    <div class="container" style="margin-top:120px;width:600px; ">
       <div class="testimonial" style="">
-        <form class="form-horizontal" role="form">
+        <form id="booking" class="form-horizontal" role="form" action="sendEmail.php" method="POST">
         <div class="form-group">
     <label for="inputEmail3" class="col-sm-2 control-label">Name</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="name" placeholder="Name">
+      <input type="text" class="form-control" name="name" id="name" placeholder="Name">
     </div>
   </div>
   <div class="form-group">
     <label for="inputEmail3" class="col-sm-2 control-label">Email</label>
     <div class="col-sm-10">
-      <input type="email" class="form-control" id="email" placeholder="Email">
+      <input type="email" class="form-control" name="email" id="email" placeholder="Email">
+    </div>
+  </div>
+    <div class="form-group">
+    <label for="phone" class="col-sm-2 control-label">Phone</label>
+    <div class="col-sm-10">
+      <input type="phone" class="form-control" name="phone" id="phone" placeholder="Phone">
     </div>
   </div>
   <div class="form-group">
     <label for="inputEmail3" class="col-sm-2 control-label">From</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="from" placeholder="From">
+      <input type="text" class="form-control" name="from" id="from" placeholder="From">
     </div>
   </div>
   
   <div class="form-group">
     <label for="inputEmail3" class="col-sm-2 control-label">To</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="to" placeholder="To">
+      <input type="text" class="form-control" name="to" id="to" placeholder="To">
     </div>
   </div>
 
   <div class="form-group">
     <label for="inputEmail3" class="col-sm-2 control-label">Pickup date</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="pickup" placeholder="">
+      <input type="text" class="form-control" name="pickup" id="pickup" placeholder="">
     </div>
   </div>
 
   <div class="form-group">
     <label for="inputEmail3" class="col-sm-2 control-label">Return date (optional)</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="return" placeholder="">
+      <input type="text" class="form-control" name="return" id="return" placeholder="">
     </div>
   </div>
   <div class="form-group">
     <label for="inputEmail3" class="col-sm-2 control-label">Baggage</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="baggage" placeholder="Baggage">
+      <input type="text" class="form-control" name="baggage" id="baggage" placeholder="Baggage">
     </div>
   </div>
   <div class="form-group">
     <label for="inputEmail3" class="col-sm-2 control-label">People</label>
     <div class="col-sm-10">
-      <select class="form-control" id="people" name="people">
+      <select class="form-control" name="people" id="people" name="people">
         <option value="1">1 Person</option>
         <option value="2">2 People</option>
         <option value="3">3 People</option>
@@ -144,22 +150,34 @@
    <div class="form-group">
     <label for="inputEmail3" class="col-sm-2 control-label">Multiple Dropoff</label>
     <div class="col-sm-10">
-      <input type="checkbox" class="form-control" id="multi" value="multi">
+      <input type="checkbox" class="form-control" name="multi" id="multi" value="multi">
     </div>
   </div>
   <div class="form-group">
     <label for="inputPassword3" class="col-sm-2 control-label">Message</label>
     <div class="col-sm-10">
-      <textarea class="form-control" id="message"></textarea>
+      <textarea class="form-control" name="message" id="message"></textarea>
     </div>
   </div>
   
   <div class="form-group">
     <div class="col-sm-offset-2 col-sm-10">
-      <a data-toggle="modal" data-target="#myModal" class="btn btn-default" onclick="sendEmail();">Book</a>
+      <input type="submit"  class="btn btn-success" style="width:100%; font-size: 22px;" value="Book"></input>
     </div>
   </div>
 </form>
+
+<p>
+  <h4>PAYMENT Methods</h4>
+  <ul style="text-align: left">
+  <li>Cash</li>
+  <li>Debit/Credit card payment (including AMEX cards)</li>
+  </ul>
+
+</p>
+<div style="text-align: center">
+<p><i>Any cancellations require 24 hour notice and a small charge applies to the last minute cancellations, not applicable to booking alterations.</i></p>
+</div>
       </div>
     </div>
 
@@ -167,7 +185,7 @@
 
 
 
-    <div id="wrap" style="position:absolute; bottom:-150px; width:100%" class="footer shadow" >
+    <div id="wrap" style="width:100%" class="footer shadow" >
       <div>
       <a href="/">Home</a>
         <span class="bullet"></span>
@@ -181,6 +199,7 @@
         <span class="bullet"></span>
         <a href="booknow.html">Book Now</a>
       </div>
+
         <div>
          <a href="http://www.credit-card-logos.com"><img alt="" title="" src="http://www.credit-card-logos.com/images/multiple_credit-card-logos-1/credit_card_logos_11.gif" width="235" height="35" border="0" /></a>
       </div>
@@ -218,6 +237,10 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/js.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="js/additional-methods.min.js"></script>
+    <script src="http://malsup.github.com/jquery.form.js"></script> 
+
     <script>
 
     $(function() {
@@ -227,8 +250,51 @@
       $('nav').show('blind', 300);
 
       function sendEmail(){
-        $.post('sendEmail.php', {name: $('#name').val(), email: $('#email').val(), message: $('#message').val()});
+        //$.post('sendEmail.php', {name: $('#name').val(), email: $('#email').val(), message: $('#message').val()});
       }
+
+      $(document).ready(function(){
+     
+
+        $('#booking').validate({
+          rules:{
+            name: {
+              required: true
+            },
+            phone:{
+              required: true
+            },
+            email:{
+              required: true,
+              email: true
+            },
+            from:{
+              required: true
+            },
+            to:{
+              required: true
+            },
+            pickup:{
+              required: true
+            },
+            baggage:{
+              required: true
+            },
+            people:{
+              required: true
+            }
+          },
+          submitHandler: function(form){       
+            $('#booking').ajaxSubmit();
+            $('#myModal').modal({show: true});
+          }
+        });
+
+      });
+
+
+
+
       </script>
   </body>
   </html>
