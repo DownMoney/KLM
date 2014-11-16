@@ -1,61 +1,78 @@
-<?php
-/**
- * The main template file
- *
- * This is the most generic template file in a WordPress theme and one
- * of the two required files for a theme (the other being style.css).
- * It is used to display a page when nothing more specific matches a query,
- * e.g., it puts together the home page when no home.php file exists.
- *
- * @link http://codex.wordpress.org/Template_Hierarchy
- *
- * @package WordPress
- * @subpackage Twenty_Fourteen
- * @since Twenty Fourteen 1.0
- */
+<?php get_header(); ?>
 
-get_header(); ?>
+<?php get_template_part('template-part', 'head'); ?>
 
-<div id="main-content" class="main-content">
+<?php get_template_part('template-part', 'topnav'); ?>
 
-<?php
-	if ( is_front_page() && twentyfourteen_has_featured_posts() ) {
-		// Include the featured content template.
-		get_template_part( 'featured-content' );
-	}
-?>
+<!-- start content container -->
+<div class="row dmbs-content">
 
-	<div id="primary" class="content-area">
-		<div id="content" class="site-content" role="main">
+    <?php //left sidebar ?>
+    <?php get_sidebar( 'left' ); ?>
 
-		<?php
-			if ( have_posts() ) :
-				// Start the Loop.
-				while ( have_posts() ) : the_post();
+    <div class="col-md-<?php devdmbootstrap3_main_content_width(); ?> dmbs-main">
 
-					/*
-					 * Include the post format-specific template for the content. If you want to
-					 * use this in a child theme, then include a file called called content-___.php
-					 * (where ___ is the post format) and that will be used instead.
-					 */
-					get_template_part( 'content', get_post_format() );
+            <?php // theloop
+                if ( have_posts() ) : while ( have_posts() ) : the_post();
 
-				endwhile;
-				// Previous/next post navigation.
-				twentyfourteen_paging_nav();
+                    // single post
+                    if ( is_single() ) : ?>
 
-			else :
-				// If no content, include the "No posts found" template.
-				get_template_part( 'content', 'none' );
+                        <div <?php post_class(); ?>>
 
-			endif;
-		?>
+                            <h2 class="page-header"><?php the_title() ;?></h2>
 
-		</div><!-- #content -->
-	</div><!-- #primary -->
-	<?php get_sidebar( 'content' ); ?>
-</div><!-- #main-content -->
+                            <?php if ( has_post_thumbnail() ) : ?>
+                                <?php the_post_thumbnail(); ?>
+                                <div class="clear"></div>
+                            <?php endif; ?>
+                            <?php the_content(); ?>
+                            <?php wp_link_pages(); ?>
+                            <?php get_template_part('template-part', 'postmeta'); ?>
+                            <?php comments_template(); ?>
 
-<?php
-get_sidebar();
-get_footer();
+                        </div>
+                    <?php
+                    // list of posts
+                    else : ?>
+                       <div <?php post_class(); ?>>
+
+                            <h2 class="page-header">
+                                <a href="<?php the_permalink(); ?>" title="<?php echo esc_attr( sprintf( __( 'Permalink to %s', 'devdmbootstrap3' ), the_title_attribute( 'echo=0' ) ) ); ?>" rel="bookmark"><?php the_title(); ?></a>
+                            </h2>
+
+                            <?php if ( has_post_thumbnail() ) : ?>
+                               <?php the_post_thumbnail(); ?>
+                                <div class="clear"></div>
+                            <?php endif; ?>
+                            <?php the_content(); ?>
+                            <?php wp_link_pages(); ?>
+                            <?php get_template_part('template-part', 'postmeta'); ?>
+                            <?php  if ( comments_open() ) : ?>
+                                   <div class="clear"></div>
+                                  <p class="text-right">
+                                      <a class="btn btn-success" href="<?php the_permalink(); ?>#comments"><?php comments_number(__('Leave a Comment','devdmbootstrap3'), __('One Comment','devdmbootstrap3'), '%' . __(' Comments','devdmbootstrap3') );?> <span class="glyphicon glyphicon-comment"></span></a>
+                                  </p>
+                            <?php endif; ?>
+                       </div>
+
+                     <?php  endif; ?>
+
+                <?php endwhile; ?>
+                <?php posts_nav_link(); ?>
+                <?php else: ?>
+
+                    <?php get_404_template(); ?>
+
+            <?php endif; ?>
+
+   </div>
+
+   <?php //get the right sidebar ?>
+   <?php get_sidebar( 'right' ); ?>
+
+</div>
+<!-- end content container -->
+
+<?php get_footer(); ?>
+

@@ -2,72 +2,78 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce8be624-a728-467d-90ba-7a919e23f8d8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/Genericons-Regular.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/font/genericons-regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/font/genericons-regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/font/genericons-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/COPYING.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/archive.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/author.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/inc/back-compat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-aside.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-audio.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-featured-post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-link.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-none.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-quote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-video.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page-templates/contributors.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/inc/custom-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/js/customizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/inc/customizer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/editor-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/js/featured-content-admin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/featured-content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/inc/featured-content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page-templates/full-width.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/js/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/font/genericons-regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/genericons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/js/html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/js/keyboard-image-navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/images/pattern-dark.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/images/pattern-light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/sidebar-content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/sidebar-footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/js/slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/tag.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/taxonomy-post_format.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/inc/template-tags.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/languages/twentyfourteen.pot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/inc/widgets.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/glyphicons-halflings-regular.svg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/archive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/author.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-aside.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-audio.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-featured-post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-gallery.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-link.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-none.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-quote.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content-video.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/featured-content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/COPYING.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/Genericons-Regular.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/font/genericons-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/font/genericons-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/font/genericons-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/font/genericons-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/genericons/genericons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/images/pattern-dark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/images/pattern-light.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/inc/back-compat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/inc/custom-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/inc/customizer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/inc/featured-content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/inc/template-tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/inc/widgets.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/js/customizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/js/featured-content-admin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/js/functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/js/html5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/js/keyboard-image-navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/js/slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/languages/twentyfourteen.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page-templates/contributors.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page-templates/full-width.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/sidebar-content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/sidebar-footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/taxonomy-post_format.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/screenshot.png" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/screenshot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/404.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/404.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/comments.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/comments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/editor-style.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/editor-style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/footer.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/functions.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/index.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/rtl.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/style.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="KLM.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,30 +93,101 @@
     <favorites_list name="KLM" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ie.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/ie.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="20100">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="270">
+                  <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+                  <folding>
+                    <marker date="1405484474000" expanded="true" signature="602:603" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="rtl.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/rtl.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3630">
+                  <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                  <folding>
+                    <marker date="1405484474000" expanded="true" signature="5118:5121" placeholder="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0" vertical-offset="15" max-vertical-offset="660">
+                  <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/functions.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.43103448" vertical-offset="0" max-vertical-offset="2535">
+                  <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="270">
+                  <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0779896" vertical-offset="375" max-vertical-offset="2610">
+                  <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/functions.php" />
+      </list>
+    </option>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="267" />
-    <option name="y" value="304" />
-    <option name="width" value="1400" />
-    <option name="height" value="986" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -231,7 +308,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="twentyfourteen" />
+              <option name="myItemId" value="KLM" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,19 +322,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wordpress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="KLM" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -276,10 +341,13 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/wordpress/wp-content/themes/KLM" />
+      <recent name="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css" />
     </key>
   </component>
   <component name="RunManager">
@@ -305,6 +373,9 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -354,6 +425,9 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -376,6 +450,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
@@ -411,6 +490,10 @@
       <option name="screenWidth" value="0" />
       <option name="url" value="http://" />
       <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -526,49 +609,53 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ce8be624-a728-467d-90ba-7a919e23f8d8" name="Default" comment="" />
       <created>1416167368192</created>
       <option name="number" value="Default" />
       <updated>1416167368192</updated>
-      <workItem from="1416167368690" duration="125000" />
+      <workItem from="1416167368690" duration="245000" />
+      <workItem from="1416167651553" duration="1843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125000" />
+    <option name="totallyTimeSpent" value="2088000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="267" y="304" width="1400" height="986" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1920" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18229167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -586,16 +673,93 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/ie.css">
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="20100">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="929">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="110475">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="929">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="810">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="15" max-vertical-offset="660">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="270">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <marker date="1405484474000" expanded="true" signature="602:603" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3630">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1405484474000" expanded="true" signature="5118:5121" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0779896" vertical-offset="375" max-vertical-offset="2610">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43103448" vertical-offset="0" max-vertical-offset="2535">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -1,28 +1,18 @@
-<?php
-/**
- * The template for displaying the footer
- *
- * Contains footer content and the closing of the #main and #page div elements.
- *
- * @package WordPress
- * @subpackage Twenty_Fourteen
- * @since Twenty Fourteen 1.0
- */
-?>
+    <div class="dmbs-footer">
+        <?php
+            global $dm_settings;
+            if ($dm_settings['author_credits'] != 0) : ?>
+                <div class="row dmbs-author-credits">
+                    <p class="text-center"><a href="<?php global $developer_uri; echo esc_url($developer_uri); ?>">DevDmBootstrap3 <?php _e('created by','devdmbootstrap3') ?> Danny Machal</a></p>
+                </div>
+        <?php endif; ?>
 
-		</div><!-- #main -->
+        <?php get_template_part('template-part', 'footernav'); ?>
+    </div>
 
-		<footer id="colophon" class="site-footer" role="contentinfo">
+</div>
+<!-- end main container -->
 
-			<?php get_sidebar( 'footer' ); ?>
-
-			<div class="site-info">
-				<?php do_action( 'twentyfourteen_credits' ); ?>
-				<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'twentyfourteen' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentyfourteen' ), 'WordPress' ); ?></a>
-			</div><!-- .site-info -->
-		</footer><!-- #colophon -->
-	</div><!-- #page -->
-
-	<?php wp_footer(); ?>
+<?php wp_footer(); ?>
 </body>
 </html>

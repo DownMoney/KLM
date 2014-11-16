@@ -1,32 +1,23 @@
-<?php
-/**
- * The template for displaying 404 pages (Not Found)
- *
- * @package WordPress
- * @subpackage Twenty_Fourteen
- * @since Twenty Fourteen 1.0
- */
+<?php get_header(); ?>
 
-get_header(); ?>
+<?php get_template_part('template-part', 'head'); ?>
 
+<?php get_template_part('template-part', 'topnav'); ?>
 
-	<div id="primary" class="content-area">
-		<div id="content" class="site-content" role="main">
+    <!-- start content container -->
+    <div class="row dmbs-content">
 
-			<header class="page-header">
-				<h1 class="page-title"><?php _e( 'Not Found', 'twentyfourteen' ); ?></h1>
-			</header>
+        <?php //left sidebar ?>
+        <?php get_sidebar( 'left' ); ?>
 
-			<div class="page-content">
-				<p><?php _e( 'It looks like nothing was found at this location. Maybe try a search?', 'twentyfourteen' ); ?></p>
+        <div class="col-md-<?php devdmbootstrap3_main_content_width(); ?> dmbs-main">
+         <h1><?php _e('Sorry This Page Does Not Exist!','devdmbootstrap3'); ?></h1>
+        </div>
 
-				<?php get_search_form(); ?>
-			</div><!-- .page-content -->
+        <?php //get the right sidebar ?>
+        <?php get_sidebar( 'right' ); ?>
 
-		</div><!-- #content -->
-	</div><!-- #primary -->
+    </div>
+    <!-- end content container -->
 
-<?php
-get_sidebar( 'content' );
-get_sidebar();
-get_footer();
+<?php get_footer(); ?>
