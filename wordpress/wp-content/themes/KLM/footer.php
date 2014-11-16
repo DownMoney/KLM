@@ -1,16 +1,22 @@
-    <div class="dmbs-footer">
+    <div class="footer shadow">
+        <div>
         <?php
-            global $dm_settings;
-            if ($dm_settings['author_credits'] != 0) : ?>
-                <div class="row dmbs-author-credits">
-                    <p class="text-center"><a href="<?php global $developer_uri; echo esc_url($developer_uri); ?>">DevDmBootstrap3 <?php _e('created by','devdmbootstrap3') ?> Danny Machal</a></p>
-                </div>
-        <?php endif; ?>
-
-        <?php get_template_part('template-part', 'footernav'); ?>
+        wp_nav_menu(array(
+                'menu' => 'Site Menu',
+                'theme_location' => 'main-menu',
+                'container' => '',
+                'link_after'      => '<span class="bullet"></span>',
+                'items_wrap' => '<ul id="menu" class="list-inline">%3$s</ul>'
+            )
+        );
+        ?>
+            </div>
+        <div>
+            <a href="http://www.credit-card-logos.com"><img alt="" title="" src="http://www.credit-card-logos.com/images/multiple_credit-card-logos-1/credit_card_logos_11.gif" width="235" height="35" border="0" /></a>
+        </div>
     </div>
 
-</div>
+
 <!-- end main container -->
 
 <?php wp_footer(); ?>

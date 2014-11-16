@@ -2,13 +2,12 @@
 
 <?php get_template_part('template-part', 'head'); ?>
 
-<?php get_template_part('template-part', 'topnav'); ?>
+
 
 <!-- start content container -->
 <div class="row dmbs-content">
 
-    <?php //left sidebar ?>
-    <?php get_sidebar( 'left' ); ?>
+
 
     <div class="col-md-<?php devdmbootstrap3_main_content_width(); ?> dmbs-main">
 
@@ -71,6 +70,7 @@
    <?php //get the right sidebar ?>
    <?php get_sidebar( 'right' ); ?>
 
+</div>
 </div>
 <!-- end content container -->
 

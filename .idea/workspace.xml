@@ -2,34 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce8be624-a728-467d-90ba-7a919e23f8d8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/HelveticaNeueLTPro-Th.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/HelveticaNeueLTStd-UltLt.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/battersea.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/biggin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/city.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/docklands.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/farnborough.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/gatwick.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/heathrow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/helvetica-neue1.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/luton.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/meeting.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/merc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/merce.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/opera.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/oxford.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/party.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/phantom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/relax.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/southend.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/stansted.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/style.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/viano.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/fonts/img/wedding.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/functions.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/footer.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/theme-options.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/theme-options.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/index.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/style.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/template-part-head.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/template-part-head.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="KLM.iws" />
@@ -57,54 +36,12 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.88388216" vertical-offset="165" max-vertical-offset="1140">
-                  <caret line="45" column="92" selection-start-line="45" selection-start-column="92" selection-end-line="45" selection-end-column="92" />
+                <state vertical-scroll-proportion="-10.291667" vertical-offset="278" max-vertical-offset="1125">
+                  <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="33" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="template-part-head.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/template-part-head.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="525">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="sidebar-right.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/sidebar-right.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="195">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="sidebar-left.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/sidebar-left.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="180">
-                  <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="24" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="rtl.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/rtl.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3630">
-                  <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-                  <folding>
-                    <marker date="1405484474000" expanded="true" signature="5118:5121" placeholder="{...}" />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -112,8 +49,8 @@
           <file leaf-file-name="page.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0" vertical-offset="15" max-vertical-offset="660">
-                  <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <state vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="615">
+                  <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
@@ -122,18 +59,40 @@
           <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/functions.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-2.2025316" vertical-offset="366" max-vertical-offset="2535">
+                <state vertical-scroll-proportion="-7.25" vertical-offset="366" max-vertical-offset="2535">
                   <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="theme-options.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/theme-options.php">
+          <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/footer.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-13.416667" vertical-offset="4463" max-vertical-offset="5130">
-                  <caret line="319" column="63" selection-start-line="319" selection-start-column="63" selection-end-line="319" selection-end-column="63" />
+                <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="435">
+                  <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+                  <folding>
+                    <marker date="1416178870000" expanded="true" signature="424:657" placeholder="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="fleet.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/fleet.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-11.875" vertical-offset="705" max-vertical-offset="2625">
+                  <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.779896" vertical-offset="330" max-vertical-offset="1260">
+                  <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
                   <folding />
                 </state>
               </provider>
@@ -146,7 +105,7 @@
           <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1140">
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1125">
                   <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
                   <folding />
                 </state>
@@ -156,18 +115,28 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-17.5" vertical-offset="765" max-vertical-offset="2610">
-                  <caret line="79" column="14" selection-start-line="41" selection-start-column="9" selection-end-line="79" selection-end-column="14" />
+                <state vertical-scroll-proportion="-19.666666" vertical-offset="2033" max-vertical-offset="2610">
+                  <caret line="167" column="9" selection-start-line="167" selection-start-column="9" selection-end-line="167" selection-end-column="9" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-29.846153" vertical-offset="2734" max-vertical-offset="4575">
+                  <caret line="234" column="16" selection-start-line="234" selection-start-column="16" selection-end-line="234" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css">
+            <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.906087" vertical-offset="499" max-vertical-offset="4560">
-                  <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
+                <state vertical-scroll-proportion="0.64891845" vertical-offset="0" max-vertical-offset="1080">
+                  <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -197,8 +166,13 @@
       <list>
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/functions.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/theme-options.php" />
-        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/template-part-head.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/footer.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/style.css" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/index.php" />
       </list>
     </option>
   </component>
@@ -772,12 +746,12 @@
       <option name="number" value="Default" />
       <updated>1416167368192</updated>
       <workItem from="1416167368690" duration="245000" />
-      <workItem from="1416167651553" duration="6182000" />
+      <workItem from="1416167651553" duration="11674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6427000" />
+    <option name="totallyTimeSpent" value="11919000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1026" extended-state="6" />
@@ -857,45 +831,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="929">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="810">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="15" max-vertical-offset="660">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/rtl.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3630">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <marker date="1405484474000" expanded="true" signature="5118:5121" placeholder="{...}" />
+            <marker date="1405484474000" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.5" vertical-offset="765" max-vertical-offset="2610">
-          <caret line="79" column="14" selection-start-line="41" selection-start-column="9" selection-end-line="79" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -909,34 +851,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.2025316" vertical-offset="366" max-vertical-offset="2535">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/theme-options.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.416667" vertical-offset="4463" max-vertical-offset="5130">
           <caret line="319" column="63" selection-start-line="319" selection-start-column="63" selection-end-line="319" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.906087" vertical-offset="499" max-vertical-offset="4560">
-          <caret line="68" column="21" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/template-part-head.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="601">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -949,6 +867,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fleet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.875" vertical-offset="705" max-vertical-offset="2625">
+          <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/template-part-topnav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57192373" vertical-offset="0" max-vertical-offset="577">
+          <caret line="22" column="26" selection-start-line="15" selection-start-column="11" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="601">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.25" vertical-offset="366" max-vertical-offset="2535">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/sidebar-right.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="614">
@@ -957,10 +907,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/template-part-head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="577">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.625" vertical-offset="0" max-vertical-offset="615">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.666666" vertical-offset="2033" max-vertical-offset="2610">
+          <caret line="167" column="9" selection-start-line="167" selection-start-column="9" selection-end-line="167" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="435">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <marker date="1416178870000" expanded="true" signature="424:657" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.88388216" vertical-offset="165" max-vertical-offset="1140">
-          <caret line="45" column="92" selection-start-line="45" selection-start-column="92" selection-end-line="45" selection-end-column="92" />
+        <state vertical-scroll-proportion="-10.291667" vertical-offset="278" max-vertical-offset="1125">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.846153" vertical-offset="2734" max-vertical-offset="4575">
+          <caret line="234" column="16" selection-start-line="234" selection-start-column="16" selection-end-line="234" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64891845" vertical-offset="0" max-vertical-offset="1080">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.779896" vertical-offset="330" max-vertical-offset="1260">
+          <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
           <folding />
         </state>
       </provider>

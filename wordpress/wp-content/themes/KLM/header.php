@@ -18,8 +18,7 @@
 global $dm_settings;
 
 ?>
-
-<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+<nav class="navbar navbar-default" role="navigation">
 
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -43,7 +42,8 @@ global $dm_settings;
             </div>
 
             <div class="col-xs-4 text-right">
-                <h2><a href="tel:<?php echo $dm_settings['phone_number'] ?>"><?php echo $dm_settings['phone_number'] ?></a>
+                <h2>
+                    <a href="tel:<?php echo $dm_settings['phone_number'] ?>"><?php echo $dm_settings['phone_number'] ?></a>
                 </h2>
             </div>
 
@@ -53,19 +53,17 @@ global $dm_settings;
     <div class="bottom-nav">
         <hr/>
         <div class="div-center collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav menu" id="menu">
-                <li><a href="/">Home</a></li>
-                <li><a href="fleet.html">Fleet</a></li>
-                <li><a href="airport-transfers.html">Airport Transfers</a></li>
-                <li><a href="wedding-and-special-events.html">Special Occasions</a></li>
-                <li><a href="corporate.html">Corporate</a></li>
-                <li><a href="booknow.html">Booking &amp; Payment</a></li>
-                <li><a href="whyus.html">Why Us?</a></li>
-            </ul>
+        <?php
+        wp_nav_menu(array(
+                'menu' => 'Site Menu',
+                'theme_location' => 'main-menu',
+                'container' => '',
+                'items_wrap' => '<ul id="menu" class="nav navbar-nav menu">%3$s</ul>'
+            )
+        );
+        ?>
         </div>
+
+
     </div>
 </nav>
-
-<script>
-
-</script>

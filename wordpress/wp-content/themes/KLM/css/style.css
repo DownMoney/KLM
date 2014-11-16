@@ -9,18 +9,17 @@
 }
 
 html, body {
-    background: #141718;
+    background: #141718 !important;
+    padding-bottom: 0px !important;
 
-    font-family: 'HelveticaUL' !important;
-    font-weight: 300 !important;
 }
 
 nav {
     background: rgba(20, 23, 24, 1.0) !important;
+
     border: none !important;
 
-    display: none;
-    overflow: hidden;
+   border-radius: 0 !important;
 
 }
 
@@ -37,7 +36,7 @@ p i small {
 .div-center{
     display: block !important;
     margin: 0 auto;
-    width: 1000px !important;
+    width: 1100px !important;
 }
 
 .menu {
@@ -219,12 +218,12 @@ body {
 
 }
 
-h1 {
+.col-xs-4 h2 {
     font-family: 'HelveticaNeue' !important;
     color: #1abc9c;
-    margin: 0px;
+
     font-size: 30px;
-    padding-right: 30px;
+
 }
 
 .nav li a {
@@ -247,18 +246,20 @@ h1 {
 
 .footer {
     background: #8E8E93 !important;
-    height: 100px;
     border-top: 3px solid #359dd6 !important;
     text-align: center;
     font-size: 25px;
-
+    clear: both;
+    position: relative;
+    z-index: 10;
+    margin-top: 50px;
 }
 
-.footer div {
+.footer ul {
     margin-top: 35px;
 }
 
-.footer div a {
+.footer ul li a {
 
     font-family: 'HelveticaNeue' !important;
     color: #fff !important;

@@ -2,22 +2,19 @@
 
 <?php get_template_part('template-part', 'head'); ?>
 
-<?php get_template_part('template-part', 'topnav'); ?>
 
 <!-- start content container -->
 <div class="row dmbs-content">
-
-    <?php //left sidebar ?>
-    <?php get_sidebar( 'left' ); ?>
 
     <div class="col-md-<?php devdmbootstrap3_main_content_width(); ?> dmbs-main">
 
         <?php // theloop
         if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
-            <h2 class="page-header"><?php the_title() ;?></h2>
+        <div class="testimonial">
             <?php the_content(); ?>
-            <?php wp_link_pages(); ?>
+            </div>
+
             <?php comments_template(); ?>
 
         <?php endwhile; ?>
@@ -34,5 +31,5 @@
 
 </div>
 <!-- end content container -->
-
+</div>
 <?php get_footer(); ?>
