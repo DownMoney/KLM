@@ -8,7 +8,7 @@
     $developer_uri = "http://klmchauffeurs.com";
     $shortname = "klm";
     $version = '1.00';
-    load_theme_textdomain( 'devdmbootstrap3', get_template_directory() . '/languages' );
+    load_theme_textdomain( 'KLM', get_template_directory() . '/languages' );
 
 ////////////////////////////////////////////////////////////////////
 // include Theme-options.php for Admin Theme settings

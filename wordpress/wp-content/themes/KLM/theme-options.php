@@ -223,16 +223,14 @@ load_theme_textdomain( 'devdmbootstrap3', get_template_directory() . '/languages
         //get our global options
         global $dm_options, $dm_sidebar_sizes, $developer_uri;
 
-        //get our logo
-        $logo = get_template_directory_uri() . '/img/logo.png'; ?>
+       ?>
 
         <div class="wrap">
 
-        <div class="dm-logo-wrap"><a href="<?php echo $developer_uri ?>" target="_blank"><img src="<?php echo $logo; ?>" class="dm-logo" title="Created by Danny Machal @ DevDm.com" /></a></div>
 
-            <div class="icon32" id="icon-options-general"></div>
 
-            <h2><a href="<?php echo $developer_uri ?>" target="_blank">DevDmBootstrap3</a></h2>
+
+
 
                <?php
 
@@ -307,6 +305,19 @@ load_theme_textdomain( 'devdmbootstrap3', get_template_directory() . '/languages
                         <td>
                             <input type="checkbox" id="author_credits" name="dm_options[author_credits]" value="1" <?php checked( true, $settings['author_credits'] ); ?> />
                             <label for="author_credits"><?php _e('Show me some love and keep a link to DevDm.com in your footer.','devdmbootstrap3') ;?></label>
+                        </td>
+                    </tr>
+
+                    <tr valign="top"><th scope="row"><?php _e('Contact Email Address','devdmbootstrap3') ;?></th>
+                        <td>
+                            <input type="text" id="contact_email" name="dm_options[email]" value="<?php echo $settings['email'] ?>" />
+
+                        </td>
+                    </tr>
+
+                    <tr valign="top"><th scope="row"><?php _e('Contact Phone Number','devdmbootstrap3') ;?></th>
+                        <td>
+                            <input type="text" id="phone_number" name="dm_options[phone_number]" value="<?php echo $settings['phone_number'] ?>" />
                         </td>
                     </tr>
 
