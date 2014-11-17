@@ -30,7 +30,10 @@ global $dm_settings;
         </button>
 
     </div>
-    <div class="collapse navbar-collapse container-fluid ">
+    <div id="simple-logo" class="logo">
+        <b>K&middot;L&middot;M</b> Chauffeurs
+    </div>
+    <div class="collapse navbar-collapse container-fluid">
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="text-center row">
             <div class="col-xs-4 text-left">
@@ -50,6 +53,7 @@ global $dm_settings;
         </div>
     </div>
     <!-- /.navbar-collapse -->
+
     <div class="bottom-nav">
         <hr/>
         <div class="div-center collapse navbar-collapse" id="bs-example-navbar-collapse-1">

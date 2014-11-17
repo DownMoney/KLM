@@ -255,58 +255,13 @@ load_theme_textdomain( 'devdmbootstrap3', get_template_directory() . '/languages
 
                 <table cellpadding='10'>
 
-                    <tr valign="top"><th scope="row"><?php _e('Right Sidebar','devdmbootstrap3') ;?></th>
+                    <tr valign="top"><th scope="row"><?php _e('Taxi license','devdmbootstrap3') ;?></th>
                         <td>
-                            <input type="checkbox" id="right_sidebar" name="dm_options[right_sidebar]" value="1" <?php checked( true, $settings['right_sidebar'] ); ?> />
-                            <label for="right_sidebar"><?php _e('Show the Right Sidebar','devdmbootstrap3') ;?></label>
+                            <input type="text" id="license" name="dm_options[license]" value="<?php echo $settings['license'] ?>" />
+
                         </td>
                     </tr>
 
-                    <tr valign="top"><th scope="row"><?php _e('Right Sidebar Size','devdmbootstrap3') ;?></th>
-                        <td>
-                    <?php foreach( $dm_sidebar_sizes as $sizes ) : ?>
-                        <input type="radio" id="<?php echo $sizes['value']; ?>" name="dm_options[right_sidebar_width]" value="<?php echo esc_attr($sizes['value']); ?>" <?php checked( $settings['right_sidebar_width'], $sizes['value'] ); ?> />
-                        <label for="<?php echo $sizes['value']; ?>"><?php echo $sizes['label']; ?></label><br />
-                    <?php endforeach; ?>
-                        </td>
-                    </tr>
-
-                    <tr valign="top"><th scope="row"><?php _e('Left Side Bar','devdmbootstrap3') ;?></th>
-                        <td>
-                            <input type="checkbox" id="left_sidebar" name="dm_options[left_sidebar]" value="1" <?php checked( true, $settings['left_sidebar'] ); ?> />
-                            <label for="left_sidebar"><?php _e('Show the Left Sidebar','devdmbootstrap3') ;?></label>
-                        </td>
-                    </tr>
-
-                    <tr valign="top"><th scope="row"><?php _e('Left Sidebar Size','devdmbootstrap3') ;?></th>
-                        <td>
-                            <?php foreach( $dm_sidebar_sizes as $sizes ) : ?>
-                                <input type="radio" id="<?php echo $sizes['value']; ?>" name="dm_options[left_sidebar_width]" value="<?php echo esc_attr($sizes['value']); ?>" <?php checked( $settings['left_sidebar_width'], $sizes['value'] ); ?> />
-                                <label for="<?php echo $sizes['value']; ?>"><?php echo $sizes['label']; ?></label><br />
-                            <?php endforeach; ?>
-                        </td>
-                    </tr>
-
-                    <tr valign="top"><th scope="row"><?php _e('Show Header','devdmbootstrap3') ;?></th>
-                        <td>
-                            <input type="checkbox" id="show_header" name="dm_options[show_header]" value="1" <?php checked( true, $settings['show_header'] ); ?> />
-                            <label for="show_header"><?php _e('Show The Main Header in the Template (logo/sitename/etc.)','devdmbootstrap3') ;?></label>
-                        </td>
-                    </tr>
-
-                    <tr valign="top"><th scope="row"><?php _e('Show Post Meta','devdmbootstrap3') ;?></th>
-                        <td>
-                            <input type="checkbox" id="show_postmeta" name="dm_options[show_postmeta]" value="1" <?php checked( true, $settings['show_postmeta'] ); ?> />
-                            <label for="show_postmeta"><?php _e('Show Post Meta data (author, category, date created)','devdmbootstrap3') ;?></label>
-                        </td>
-                    </tr>
-
-                    <tr valign="top"><th scope="row"><?php _e('Give Danny His Credit?','devdmbootstrap3') ;?></th>
-                        <td>
-                            <input type="checkbox" id="author_credits" name="dm_options[author_credits]" value="1" <?php checked( true, $settings['author_credits'] ); ?> />
-                            <label for="author_credits"><?php _e('Show me some love and keep a link to DevDm.com in your footer.','devdmbootstrap3') ;?></label>
-                        </td>
-                    </tr>
 
                     <tr valign="top"><th scope="row"><?php _e('Contact Email Address','devdmbootstrap3') ;?></th>
                         <td>

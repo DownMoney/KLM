@@ -38,6 +38,7 @@ add_editor_style('css/editor-style.css');
     {
         global $version;
         wp_enqueue_script('theme-js', get_template_directory_uri() . '/js/bootstrap.js',array( 'jquery' ),$version,true );
+        wp_enqueue_script('app', get_template_directory_uri() . '/js/application.js',array( 'jquery', 'theme-js' ),$version,true );
     }
     add_action('wp_enqueue_scripts', 'devdmbootstrap3_theme_js');
 
