@@ -7,7 +7,7 @@ load_theme_textdomain( 'devdmbootstrap3', get_template_directory() . '/languages
 ////////////////////////////////////////////////////////////////////
 
     function dmbs_theme_options_menu() {
-        add_theme_page( 'DevDm Theme' . __('Options','devdmbootstrap3'), 'DevDm' . __('Options','devdmbootstrap3'), 'manage_options', 'devdm-theme-options', 'devdm_theme_options' );
+        add_theme_page( 'KLM Theme' . __('Options','devdmbootstrap3'), 'KLM' . __('Options','devdmbootstrap3'), 'manage_options', 'devdm-theme-options', 'devdm_theme_options' );
     }
     add_action( 'admin_menu', 'dmbs_theme_options_menu' );
 
@@ -16,7 +16,7 @@ load_theme_textdomain( 'devdmbootstrap3', get_template_directory() . '/languages
     function toolbar_link_to_dmbs_options( $wp_admin_bar ) {
         $args = array(
             'id'    => 'devdm_theme_options',
-            'title' => __('DevDm Options','devdmbootstrap3'),
+            'title' => __('KLM Options','devdmbootstrap3'),
             'href'  => home_url() . '/wp-admin/themes.php?page=devdm-theme-options',
             'meta'  => array( 'class' => 'devdm-theme-options' ),
             'parent' => 'site-name'
