@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce8be624-a728-467d-90ba-7a919e23f8d8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/screenshot.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css" afterPath="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css" />
     </list>
     <ignored path="KLM.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -128,21 +125,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.46793762" vertical-offset="0" max-vertical-offset="2610">
+                <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="2610">
                   <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="27" selection-end-column="9" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-16.576923" vertical-offset="439" max-vertical-offset="5145">
-                  <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
+                <state vertical-scroll-proportion="0.73626375" vertical-offset="1143" max-vertical-offset="5205">
+                  <caret line="103" column="1" selection-start-line="103" selection-start-column="1" selection-end-line="103" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
@@ -187,9 +184,9 @@
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/footer.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/functions.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/js/application.js" />
-        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/theme-options.php" />
         <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php" />
+        <option value="$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css" />
       </list>
     </option>
   </component>
@@ -763,12 +760,12 @@
       <option name="number" value="Default" />
       <updated>1416167368192</updated>
       <workItem from="1416167368690" duration="245000" />
-      <workItem from="1416167651553" duration="16720000" />
+      <workItem from="1416167651553" duration="18180000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16965000" />
+    <option name="totallyTimeSpent" value="18425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1026" extended-state="6" />
@@ -966,17 +963,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.576923" vertical-offset="439" max-vertical-offset="5145">
-          <caret line="58" column="28" selection-start-line="58" selection-start-column="28" selection-end-line="58" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46793762" vertical-offset="0" max-vertical-offset="2610">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="2610">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="27" selection-end-column="9" />
           <folding />
         </state>
@@ -992,8 +981,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51993066" vertical-offset="0" max-vertical-offset="1350">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1350">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordpress/wp-content/themes/KLM/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73626375" vertical-offset="1143" max-vertical-offset="5205">
+          <caret line="103" column="1" selection-start-line="103" selection-start-column="1" selection-end-line="103" selection-end-column="1" />
           <folding />
         </state>
       </provider>
