@@ -56,6 +56,10 @@ p i small {
     }
 }
 
+input[type="text"], textarea{
+    color: #000 !important;
+}
+
 .menu {
     font-size: 25px;
     font-family: 'HelveticaNeue';
